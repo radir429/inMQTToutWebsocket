@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "test.websocket.url",
+    "type": "java.lang.String",
+    "description": "A description for 'test.websocket.url'"
+  },
+  {
+    "name": "test.mqtt.url",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.url'"
+  },
+  {
+    "name": "test.mqtt.qos",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.qos'"
+  },
+  {
+    "name": "test.mqtt.isSSL",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.isSSL'"
+  },
+  {
+    "name": "test.mqtt.username",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.username'"
+  },
+  {
+    "name": "test.mqtt.password",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.password'"
+  },
+  {
+    "name": "test.mqtt.vhost",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.vhost'"
+  },
+  {
+    "name": "test.mqtt.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.client-id'"
+  },
+  {
+    "name": "test.mqtt.topics.pub",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.topics.pub'"
+  },
+  {
+    "name": "test.mqtt.topics.sub",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.topics.sub'"
+  },
+  {
+    "name": "test.mqtt.isSSL",
+    "type": "java.lang.String",
+    "description": "A description for 'test.mqtt.isSSL'"
+  }
+]}
